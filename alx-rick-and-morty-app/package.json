@@ -1,4 +1,4 @@
-#import * as Sentry from '@sentry/react';
+import * as Sentry from '@sentry/react';
 
 Sentry.init({
   dsn: 'https://your-dsn@sentry.io/', // Replace with your real DSN from Sentry
