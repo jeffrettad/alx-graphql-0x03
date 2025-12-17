@@ -1,4 +1,4 @@
-mimport { EpisodeCardProps } from "@/interfaces";
+import { EpisodeCardProps } from "@/interfaces";
 
 const EpisodeCard = ({ id, name, air_date, episode }: EpisodeCardProps) => {
   return (
