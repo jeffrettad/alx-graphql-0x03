@@ -1,4 +1,4 @@
-ninterface InfoProps {
+interface InfoProps {
     pages: number
     next: number
     prev: number
