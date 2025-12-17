@@ -1,4 +1,4 @@
-hinterface State {
+interface State {
   hasError: boolean;
 }
 
